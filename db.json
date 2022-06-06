@@ -1,5 +1,5 @@
 {
-  "heroes": 
+  "heroes": [
     {
       "id": 11,
       "name": "Dr Nice"
@@ -40,4 +40,5 @@
       "id": 20,
       "name": "Tornado"
     }
+  ]
 }
